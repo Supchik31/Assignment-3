@@ -1,5 +1,5 @@
 # Assignment-3
-##My comments and observations about the heuristic
+My comments and observations about the heuristic
 ###
 Greedy coloring does not always give the optimal answer
 The algorithm is fast and simple, but the number of colors depends heavily on the order of vertices.
